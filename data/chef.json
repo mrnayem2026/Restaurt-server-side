@@ -5,7 +5,7 @@
       "years_of_experience": 35,
       "number_of_recipes":10,
       "likes": 1500000,
-      "picture": "./chef1.jpg"
+      "picture": "https://images.pexels.com/photos/3338534/pexels-photo-3338534.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "years_of_experience": 20,
       "number_of_recipes":15,
       "likes": 750000,
-      "picture": "./chef2.jpg"
+      "picture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "years_of_experience": 40,
       "number_of_recipes":12,
       "likes": 2000000,
-      "picture": "./chef3.jpg"
+      "picture": "https://images.pexels.com/photos/3298641/pexels-photo-3298641.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "years_of_experience": 25,
       "number_of_recipes":25,
       "likes": 1200000,
-      "picture": "./chef4.jpg"
+      "picture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "years_of_experience": 50,
       "number_of_recipes":22,
       "likes": 2500000,
-      "picture": "./chef5.jpg"
+      "picture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "years_of_experience": 30,
       "number_of_recipes":18,
       "likes": 1000000,
-      "picture": "./chef6.jpg"
+      "picture": "https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=1600"
     }
   ]
   
