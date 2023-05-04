@@ -11,6 +11,7 @@
             {
                 "id": 1,
                 "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Boneless chicken",
                     "Yoghurt",
@@ -25,6 +26,7 @@
             {
                 "id": 2,
                 "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Spinach",
                     "Paneer",
@@ -39,6 +41,7 @@
             {
                 "id": 3,
                 "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Mutton",
                     "Basmati rice",
@@ -64,6 +67,7 @@
             {
                 "id": 1,
                 "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Boneless chicken",
                     "Yoghurt",
@@ -78,6 +82,7 @@
             {
                 "id": 2,
                 "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Spinach",
                     "Paneer",
@@ -92,6 +97,7 @@
             {
                 "id": 3,
                 "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Mutton",
                     "Basmati rice",
@@ -117,6 +123,7 @@
             {
                 "id": 1,
                 "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Boneless chicken",
                     "Yoghurt",
@@ -131,6 +138,7 @@
             {
                 "id": 2,
                 "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Spinach",
                     "Paneer",
@@ -145,6 +153,7 @@
             {
                 "id": 3,
                 "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Mutton",
                     "Basmati rice",
@@ -170,6 +179,7 @@
             {
                 "id": 1,
                 "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Boneless chicken",
                     "Yoghurt",
@@ -184,6 +194,7 @@
             {
                 "id": 2,
                 "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Spinach",
                     "Paneer",
@@ -198,6 +209,7 @@
             {
                 "id": 3,
                 "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Mutton",
                     "Basmati rice",
@@ -223,6 +235,7 @@
             {
                 "id": 1,
                 "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Boneless chicken",
                     "Yoghurt",
@@ -237,6 +250,7 @@
             {
                 "id": 2,
                 "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Spinach",
                     "Paneer",
@@ -251,6 +265,7 @@
             {
                 "id": 3,
                 "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Mutton",
                     "Basmati rice",
@@ -276,6 +291,7 @@
             {
                 "id": 1,
                 "recipeName": "Butter Chicken",
+                "picture": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Boneless chicken",
                     "Yoghurt",
@@ -290,6 +306,7 @@
             {
                 "id": 2,
                 "recipeName": "Palak Paneer",
+                "picture": "https://images.pexels.com/photos/10345736/pexels-photo-10345736.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Spinach",
                     "Paneer",
@@ -304,6 +321,7 @@
             {
                 "id": 3,
                 "recipeName": "Mutton Biryani",
+                "picture": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "ingredients": [
                     "Mutton",
                     "Basmati rice",
